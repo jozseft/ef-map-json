@@ -19,7 +19,7 @@ namespace MapJSON.Controllers
         [HttpPost]
         public void AddTrip() 
         {
-            Guid userId = Guid.Parse("d91cc85e-ba5a-41bc-baed-4b18abb3275b");
+            Guid userId = Guid.Parse("EC16EA91-EE2B-4D3B-9425-EB2EA58A41A1");
             Trip trip = new Trip
             {
                 Id = Guid.NewGuid(),
