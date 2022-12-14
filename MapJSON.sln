@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapJSON", "MapJSON\MapJSON.csproj", "{856ACD09-BC2B-4D7F-9CAA-CFBBCFA20498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapJSON.Data", "MapJSON.Data\MapJSON.Data.csproj", "{4397F237-7280-43EC-89D5-0A5B7CAD7114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856ACD09-BC2B-4D7F-9CAA-CFBBCFA20498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856ACD09-BC2B-4D7F-9CAA-CFBBCFA20498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856ACD09-BC2B-4D7F-9CAA-CFBBCFA20498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856ACD09-BC2B-4D7F-9CAA-CFBBCFA20498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4397F237-7280-43EC-89D5-0A5B7CAD7114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4397F237-7280-43EC-89D5-0A5B7CAD7114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4397F237-7280-43EC-89D5-0A5B7CAD7114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4397F237-7280-43EC-89D5-0A5B7CAD7114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E260D12-4F2D-41A8-B9F7-43D85528A03E}
+	EndGlobalSection
+EndGlobal
