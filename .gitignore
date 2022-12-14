@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MapJSON/bin/
+/MapJSON/obj
+/MapJSON.Data/bin/
+/MapJSON.Data/obj
